@@ -1,0 +1,18 @@
+compiled_tophat_junctions.tab
+Toutes les jonctions détectées par tophat
+(avec la prise en compte du "overhang" ce qui explique les différences avec les fichiers de sortie de tophat).
+
+genes_tophat_junctions.tab
+jonctions détectées dans les gènes
+
+new-introns_tophat_junctions.tab
+introns absent de l'annotation précédente
+uniquement dans les gènes ??
+Damien a mis dans son code ### New introns detected within previous gene annotation (no UTRs) ###
+
+unknown_junctions_tophat.tab
+C'est tout ce qui est dans le fichier des jonctions tophat et qui n'est trouvé dans rien de ce que Damien a recherché.
+
+UTRs_junctions_tophat.tab
+jonctions détectées dans les UTRs uniquement
+
