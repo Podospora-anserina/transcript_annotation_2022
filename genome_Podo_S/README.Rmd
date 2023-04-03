@@ -1,0 +1,5 @@
+Genome version used in this project.
+
+From Espagne et al. 2008 and Grognet et al. 2014
+
+Chromosomes 1 mat plus and mat minus differ only by the mat region devoid of recombination as defined in Grognet et al. 2014.
