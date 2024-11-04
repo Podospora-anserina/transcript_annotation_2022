@@ -17,7 +17,7 @@ Outputs can be found in the UTR_annotation directory.
 
 Directory containing the transcript annotation file
 
-**Update** : [The last annotation file](annotations/Annot_MatPlus2016_v2024-05.gff) contains the predicted transcript annotation and all previous annotation of CDS, repeats, pseudogenes, etc.
+**Update** : [The last annotation file](annotations/Annot_MatPlus2016_v2024-10.gff) contains the predicted transcript annotation and all previous annotation of CDS, repeats, pseudogenes, etc.
 
 
 ## TopHat
